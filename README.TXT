@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Clasico problema del cajero autmatico de la POO (ATM), ejemplo basico para ayudar a un compañero a comprender los conceptos de la POO en Java.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: ATM
 PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+VERSION or DATE: 06 / 07 / 23
+HOW TO START THIS PROJECT: Clona el proyecto en una carpeta para luego abrirla en BlueJ
+AUTHORS: Leonel Zeballos Aldunate
 USER INSTRUCTIONS:
