@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-Clasico problema del cajero autmatico de la POO (ATM), ejemplo basico para ayudar a un compañero a comprender los conceptos de la POO en Java.
+Clasico problema del cajero automatico (ATM) de la POO, ejemplo usado para ayudar a un compañero a comprender los conceptos de la POO en Java.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: ATM
